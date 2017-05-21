@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mhosam/AndroidStudioProjects/Template/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_cb266d2b56810cbf5df20717b07ed9b48cf3af04/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mhosam/AndroidStudioProjects/Template/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi_cb266d2b56810cbf5df20717b07ed9b48cf3af04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3af7592f1695ab27ff4fbaf830f68c0f0b5289a">
+        <dex dex="/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0d471e04384a1469d1c4557388ec0ea7d2fdac6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d329001d895bd518a111716c7f92bb86cc74711a/classes.dex" />
+    </item>
+
+</items>

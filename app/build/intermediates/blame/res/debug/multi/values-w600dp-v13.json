@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 37,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 42,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 42,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 136,
+                    "endColumn": 64,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 64,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 57,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 57,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 44,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 44,
+                        "endOffset": 527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 44,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 44,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 54,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 533,
+                        "endColumn": 54,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 52,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 589,
+                        "endColumn": 52,
+                        "endOffset": 637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 63,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 63,
+                        "endOffset": 214
+                    }
+                }
+            }
+        ]
+    }
+]

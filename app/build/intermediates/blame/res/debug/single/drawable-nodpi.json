@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-nodpi/radio_background.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-nodpi/radio_background.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-nodpi/youtube_live.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-nodpi/youtube_live.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-nodpi/sad_cloud.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-nodpi/sad_cloud.png"
+    }
+]

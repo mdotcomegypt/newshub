@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/card_background.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-v21/card_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/selectable_background_white.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-v21/selectable_background_white.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/card_background_inner.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-v21/card_background_inner.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-v21/fab_ripple_blue.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-v21/fab_ripple_blue.xml"
+    }
+]

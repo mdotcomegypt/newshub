@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w800dp-land-v13/values-w800dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w800dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 77,
+                        "endColumn": 37,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 41,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w800dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 41,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 45,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/values-w800dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 45,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    }
+]

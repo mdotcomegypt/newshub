@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_overview_card_text.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_overview_card_text.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/simple_sound_cloud_notification_expanded.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/simple_sound_cloud_notification_expanded.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_expanded.xml",
+        "source": "/Users/mhosam/.android/build-cache/4c7ee8a2d378b8c0dd257541c4c633811c6f5e39/output/res/layout/notification_expanded.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_comments_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_comments_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_comment_sub.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_comment_sub.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_youtube_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_youtube_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_main_content.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_main_content.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_instagram_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_instagram_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_webview.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_soundcloud.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_soundcloud.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_tumblr.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_tumblr.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_facebook_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_facebook_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_main_tablet.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_main_tablet.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/soundcloud_playback_view.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/soundcloud_playback_view.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_tumblr_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_tumblr_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/listview_footer.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification.xml",
+        "source": "/Users/mhosam/.android/build-cache/4c7ee8a2d378b8c0dd257541c4c633811c6f5e39/output/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_holder.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_holder.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_details.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_fav.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_overview_card_image.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_overview_card_image.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_maps.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_maps.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_webview_actionbar.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_webview_actionbar.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_overview.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_rss_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_rss_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/toolbar_default.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/toolbar_default.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_youtube_detail.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_youtube_detail.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_wordpress_list_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_wordpress_list_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/jc_layout_standard.xml",
+        "source": "/Users/mhosam/.android/build-cache/ebcfa0dc2a4e7980de27ad5499a60e606a2723d0/output/res/layout/jc_layout_standard.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_list_nopadding.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_list_nopadding.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_fav_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_fav_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/soundcloud_track_view.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/soundcloud_track_view.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/simple_sound_cloud_notification_icon.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/simple_sound_cloud_notification_icon.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/listview_highlight.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/listview_highlight.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/jc_progress_dialog.xml",
+        "source": "/Users/mhosam/.android/build-cache/ebcfa0dc2a4e7980de27ad5499a60e606a2723d0/output/res/layout/jc_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/drawer_top.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/drawer_top.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_wordpress_details.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_wordpress_details.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_rss_details.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_rss_details.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_tumblr_pager_image.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_tumblr_pager_image.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_pinterest_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_pinterest_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_comments.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_tumblr_pager.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_tumblr_pager.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/activity_media.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/activity_media.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/toolbar_tabbar.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/toolbar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/listview_loading.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/listview_loading.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/jc_layout_base.xml",
+        "source": "/Users/mhosam/.android/build-cache/ebcfa0dc2a4e7980de27ad5499a60e606a2723d0/output/res/layout/jc_layout_base.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/onesignal_bgimage_notif_layout.xml",
+        "source": "/Users/mhosam/.android/build-cache/7d69ae1b62604665ea4e14501df69bc1ac1985fc/output/res/layout/onesignal_bgimage_notif_layout.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/jc_volume_dialog.xml",
+        "source": "/Users/mhosam/.android/build-cache/ebcfa0dc2a4e7980de27ad5499a60e606a2723d0/output/res/layout/jc_volume_dialog.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_tweets_row.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_tweets_row.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_tv.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_tv.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/simple_sound_cloud_notification.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/simple_sound_cloud_notification.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_preference_list.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_preference_list.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mhosam/.android/build-cache/575d47ff58468e5fe6fcfbf294465c88b4ccc549/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/fragment_radio.xml",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/layout/fragment_radio.xml"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/mhosam/.android/build-cache/2f5c9d2fdfe1319820ae9f4331cf04b5ac5caffe/output/res/layout/design_layout_snackbar.xml"
+    }
+]

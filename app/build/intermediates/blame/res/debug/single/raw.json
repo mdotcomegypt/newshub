@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/raw/hello.mp4",
+        "source": "/Users/mhosam/.android/build-cache/ebcfa0dc2a4e7980de27ad5499a60e606a2723d0/output/res/raw/hello.mp4"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/raw/consumer_onesignal_keep.xml",
+        "source": "/Users/mhosam/.android/build-cache/7d69ae1b62604665ea4e14501df69bc1ac1985fc/output/res/raw/consumer_onesignal_keep.xml"
+    }
+]

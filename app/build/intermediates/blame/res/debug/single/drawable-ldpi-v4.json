@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/drawable-ldpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/mhosam/.android/build-cache/a79c2dfd3799d27bbcaa9f25c0ffc76e5bfeac12/output/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    }
+]

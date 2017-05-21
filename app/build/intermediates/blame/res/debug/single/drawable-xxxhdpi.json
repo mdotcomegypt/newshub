@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_radio_playing.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-xxxhdpi/ic_radio_playing.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_more_vert.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-xxxhdpi/ic_more_vert.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_action_pin.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-xxxhdpi/ic_action_pin.png"
+    },
+    {
+        "merged": "/Users/mhosam/AndroidStudioProjects/Template/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/shadow_top.9.png",
+        "source": "/Users/mhosam/AndroidStudioProjects/Template/app/src/main/res/drawable-xxxhdpi/shadow_top.9.png"
+    }
+]
